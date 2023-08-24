@@ -1,0 +1,7 @@
+Hello☺,This is my first module programmed using python.(TerminalDesigner) this is my first release version(0.0.1) . The purpose of using this is to text processing in terminal. Here it has 255 colors with 610 shades using this we can change the text background and foreground color , convert image to ASCII Code and prints the image in the terminal.It also been used to add up random color to the given text and the text is printed according to the shades. Image processing can be implemented.
+In Terminal Designer there are 7 modules. 3 modules are used for colors(BackGroundColor.py, ForeGroundColor.py, hexNames.py).Every module function names used here are the colors name and the background colour names are used with the colors name added by bg. The hexname function names are hex color values name.
+And there are 7 modules and 1856 functions are used --610 background,610 foreground and 575 hexname and other functions are for image processing and text processing.
+Check my module using the below link ..... https://lnkd.in/g-j6hpyN
+(Or) GitHub 🔗https://lnkd.in/gdiFkg7p
+
+#python #github #designer #pypi #terminal #textprocessing # #modules #imageprocessing #text #cmd #ascii #colors

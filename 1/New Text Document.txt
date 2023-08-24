@@ -1,0 +1,4 @@
+I'm thrilled to let you in on some exciting news today! Blits Estates, a Web3 real estate platform, underwent a security audit that SecureDApp successfully completed. The audit determined that the platform is secure for transactions and did not uncover any significant security flaws.
+I'm glad to report that we have taken the necessary efforts to make sure that our platform is as safe as possible because I know that security is a major priority for everyone at Blits Estates.
+This security assessment is an important turning point in our effort to provide our users with a safe and secure platform for transactions.
+An expert group of SecureDApp security engineers completed the security audit. The audit consisted of a code review of the platform and a penetration test of its infrastructure.
